@@ -16,7 +16,7 @@ let settingsNotUsePointHP = false; // Ustaw na 'true' żeby nie używać zwykły
 let settingsNotUseFullHP = false; // Ustaw na 'true' żeby nie używać potek z pełnym leczeniem
 let settingsNotUsePercentHP = false; // Ustaw na 'true' żeby nie używać potek z procentowym leczeniem
 let settingsShowHP = true; // Ustaw na 'false' żeby nie wyświetlał na dole ekranu ilości puntków życia oraz pozostałego leczenia
-let minimumHeal = 599; // Ustaw minimalną wartość od której skrypt będzie leczył (Przykład: 100 - pomija potki z leczeniem mniejszym niż 100 na przykład rośliny potrzebne do questów)
+let minimumHeal = 499; // Ustaw minimalną wartość od której skrypt będzie leczył (Przykład: 100 - pomija potki z leczeniem mniejszym niż 100 na przykład rośliny potrzebne do questów)
 let minimumLifeToHealPercent = 100; // Ustaw minimalną procentową wartość przy której skrypt zacznie działać, 80 - ulecz jak mam mniej niż 80% zdrowia, 50 - ulecz jak mam mniej niż 50% zdrowia itd.
 let excludedItems = ["Sok z Gumijagód", "Wytrawny chrabąszcz"]; // Tu możesz wpisać nazwy przdmiotów których nie chcesz używać
 //----------------------- KONIEC USTAWIEŃ -----------------------------------------
